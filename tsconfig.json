@@ -11,6 +11,7 @@
   "references": [
     {
       "path": "./tsconfig.config.json"
+      //test123
     }
   ]
 }
